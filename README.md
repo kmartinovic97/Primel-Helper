@@ -1,5 +1,5 @@
 # Primel-Helper
-A program that helps you solve [Primel](https://github.com/dill/primel) - game based on Wordle - where you have to guess a 5 digit prime number
+A program that helps you solve [Primel](https://github.com/dill/primel) made by [@dill](https://github.com/dill?page=2&tab=repositories)- game based on Wordle - where you have to guess a 5 digit prime number
 
 For a few weeks now I have been playing a game called Primel and because I don't know prime numbers I found a page that has a list of all 5 digit prime numbers. That's where I have been searching for the answers for it. And then I rememberd I could write myself a code that will help me. 
 
