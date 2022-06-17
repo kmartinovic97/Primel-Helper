@@ -8,8 +8,11 @@ You can run it in your command prompt.
 
 Then you'll be greeted like this!
 
-![Screenshot 2022-06-08 145920](https://user-images.githubusercontent.com/94166244/172622489-e8634e0e-26fc-486c-a769-cba2bc82d8d7.png)
+![Screenshot 2022-06-17 085656](https://user-images.githubusercontent.com/94166244/174243292-eedaaadf-9de1-4b62-8817-220923f40cfa.png)
 
-You then input a number 1-4 or q if you wanna quit, depending on your number you will be given next prompt. After each you'll be taken to the MENU where you can choose again. 
+![Screenshot 2022-06-17 085814](https://user-images.githubusercontent.com/94166244/174243351-f586c65e-eeb3-4349-933a-d8849986bef5.png)
+
+
+You then input a number 1-3 or q if you wanna quit, depending on your number you will be given next prompt. After each you'll be taken to the MENU where you can choose again. 
 
 I have decided to include printing of the list or a lenght of the list cause maybe it will interest someone.
